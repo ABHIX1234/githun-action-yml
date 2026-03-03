@@ -1,1 +1,1 @@
-# githun-action-yml
+# github-action-yml
